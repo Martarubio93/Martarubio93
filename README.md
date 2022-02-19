@@ -1,6 +1,6 @@
 ### Hi, I am Marta 👋
 
-I'm a spanish **junior Front-end developer.** based in London.
+I'm a spanish **junior Front-end developer** based in London.
 
 Thanks to my studies and my experiences I have developed various capacities such a
 team work, initiative and organization. I am also quite sociable and a quick learner.
