@@ -8,9 +8,6 @@ team work, initiative and organization. I am also quite sociable and a quick lea
 After finished the Adalab Digital bootcamp, my next goal is to find a job where I can demonstrate my skills and continue to improve and learn about technology field.
 
 
-<br>
-<br>
-
 ### Technologies:
 
 ##### Programming 
