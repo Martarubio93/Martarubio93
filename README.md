@@ -11,7 +11,7 @@ My next goal is to be able to demonstrate my skills and improve my knowledge in 
 
 ### Technologies:
 
-##### Programming tools
+##### Programming
 
 <img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 
@@ -32,7 +32,7 @@ My next goal is to be able to demonstrate my skills and improve my knowledge in 
 <br>
 
 
-##### Communication tools
+##### Tools
 
 <img align="left" alt="Github" width="30px" src="https://image.flaticon.com/icons/png/512/25/25231.png" />
 
