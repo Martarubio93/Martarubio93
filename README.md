@@ -2,10 +2,11 @@
 
 I'm a spanish **junior Front-end developer** based in London.
 
-Thanks to my studies and my experiences I have developed various capacities such a
-team work, initiative and organization. I am also quite sociable and a quick learner.
+After working in the tourism industry I used the pandemic situation as a challenge to reinvent myself into the technology world.
 
-After finished the Adalab Digital bootcamp, my next goal is to find a job where I can demonstrate my skills and continue to improve and learn about technology field.
+ I have learned and developed the necessary knowledge to work as a programmer after an intensive boot camp.
+
+My next goal is to be able to demonstrate my skills and improve my knowledge in an exicing and challenging technology job.
 
 
 ### Technologies:
