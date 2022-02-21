@@ -51,7 +51,7 @@ My next goal is to be able to demonstrate my skills and improve my knowledge in 
 
 ---
 
-### 💬 Contact:
+### Contact:
 
 You can contact me at martarubiodiaz@hotmail.com
 
