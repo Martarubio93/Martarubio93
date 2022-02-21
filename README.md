@@ -6,7 +6,7 @@ After working in the tourism industry I used the pandemic situation as a challen
 
  I have learned and developed the necessary knowledge to work as a programmer after an intensive boot camp.
 
-My next goal is to be able to demonstrate my skills and improve my knowledge in an exicing and challenging technology job.
+My next goal is to be able to demonstrate my skills and improve my knowledge in an exciting and challenging technology job.
 
 
 ### Technologies:
