@@ -1,12 +1,6 @@
 ### Hi, I am Marta 👋
 
-I'm a spanish **junior Front-end developer** based in London.
-
-After working in the tourism industry I used the pandemic situation as a challenge to reinvent myself into the technology world.
-
- I have learned and developed the necessary knowledge to work as a programmer after an intensive boot camp.
-
-My next goal is to be able to demonstrate my skills and improve my knowledge in an exciting and challenging technology job.
+Spanish **junior Web developer** based in London.
 
 
 ### Technologies:
