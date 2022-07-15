@@ -1,6 +1,6 @@
 ### Hi, I am Marta 👋
 
-Spanish **junior Web developer** based in London.
+**Junior Web developer** based in London.
 
 
 ### Technologies:
